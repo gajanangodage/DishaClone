@@ -1,0 +1,75 @@
+#login li{
+    display: inline;
+    color: white;
+    margin-top: 300px;
+}
+#login{
+    background-color: rgb(21, 95, 108);
+    margin-bottom: 0%;
+}
+#header{
+    margin-left: 1200px;
+    margin-right: 30px;
+}
+#login li a{
+    color: white;
+}
+
+.head{
+    display: inline;
+}
+#dd{
+    height: 150px;
+    width: 700px;
+}
+#Course{
+    height: 50px;
+}
+#image{
+    margin-left: 140px;
+    margin-right: 100px;
+}
+#marign{
+    margin-left: 40px;
+}
+#View{
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.why{
+    display: inline-block;
+    margin-left: 50px;
+ }
+ .img{
+    margin-left: 100px;
+}
+.tag{
+    margin-left: 50px;
+    margin-bottom: 0%;
+}
+.ptag{
+    margin-top: 12px;
+}
+#icons{
+    font-size: 50px;
+    margin-right: 10px;
+}
+#av{
+    margin-left: 250px;
+}
+#png{
+    margin-left: 80px;
+}
+.corpo{
+    display: inline-block;
+}
+#coco{
+    margin-right: 550px;
+}
+#ede{
+    background-color: #B0B0B0;
+}
+#Footer{
+    margin-right: 1100px;
+}
